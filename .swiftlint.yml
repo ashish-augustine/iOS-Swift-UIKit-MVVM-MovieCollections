@@ -1,0 +1,14 @@
+excluded:
+  - Carthage
+  - Pods
+  
+disabled_rules:
+  - trailing_whitespace
+  - force_cast
+  - switch_case_alignment
+  - redundant_string_enum_value
+  - closure_parameter_position
+  
+line_length: 140
+
+#$ swiftlint autocorrect
