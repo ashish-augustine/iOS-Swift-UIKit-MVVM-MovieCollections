@@ -6,15 +6,7 @@ This app shows a collections of TV streaming and other movies. Movie app written
 ![Group1X](https://user-images.githubusercontent.com/64474454/146820234-84c70414-719a-4471-9513-8cc813a14bbe.png)
 ---
 
-### Table of Contents
 
-- [Description](#description)
-- [Dependencies](#dependencies)
-- [Resources](#resources)
-- [How To Use](#how-to-use)
-- [Author Info](#author-info)
-
----
 
 ## Description
 
@@ -30,9 +22,6 @@ This app shows a collections of TV streaming and other movies. Movie app written
 - [X] User can view trailer of a particular movie in the youtube app or a web browser.
 - [X] It also features the best movies that refresh weekly so you can choose and watch the latest movies that have the best ratings.
 
-### Todo
-
-- [ ] Refresh API data - trailer ulr, description, comments, rating for each movie.
 
 ## Dependencies
 |#|Library|Description|
@@ -52,12 +41,9 @@ This app shows a collections of TV streaming and other movies. Movie app written
 - Design - [Figma design](https://www.figma.com/community/file/988093088740037911/VOD-Platform-App) created by [Mehri Fekri](https://www.figma.com/community/file/988093088740037911/VOD-Platform-App)
 - API - [Link to Mocky](https://www.mocky.io/v3/3feccf06-6bc1-480d-97af-bbc05d785f86)
 
-## How To Use
+## How To Run The Project
 
 - Clone the project and run it on Xcode 12 or above.
 - Open a terminal window, and $ cd into your project directory.
 - Run $ pod install.
 - Open the Movie.xcworkspace.
-
-[Back To The Top](#Movie)
-# Movie-MVVM-main
