@@ -1,6 +1,6 @@
-# Movie        [![wakatime](https://wakatime.com/badge/github/siuzanna/Movie.svg)](https://wakatime.com/badge/github/siuzanna/Movie) 
-  
-The app shows a collections of TV streaming and other movies. Movie app written in Swift & UIKit using the [Custom API](https://www.mocky.io/v3/3feccf06-6bc1-480d-97af-bbc05d785f86) created on the Mocky website. App built using the MVVM architecture and 100% programmatic UI (No Storyboard). + NSDiffableDataSourceSnapshot, UICollectionViewDiffableDataSource
+# Movie         
+
+The app shows a collections of TV streaming and other movies. Movie app written in Swift & UIKit. App built using the MVVM architecture and 100% programmatic UI (No Storyboard). + NSDiffableDataSourceSnapshot, UICollectionViewDiffableDataSource
 
 ### Screen Shots
 ![Group1X](https://user-images.githubusercontent.com/64474454/146820234-84c70414-719a-4471-9513-8cc813a14bbe.png)
