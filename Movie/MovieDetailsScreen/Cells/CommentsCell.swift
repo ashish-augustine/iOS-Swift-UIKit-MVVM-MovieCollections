@@ -2,7 +2,7 @@
 //  CommentsCell.swift
 //  Movie
 //
-//  Created by siuzanna on 20/12/21.
+//  Created by Ashish Augustine on 20/12/21.
 //
 
 import UIKit

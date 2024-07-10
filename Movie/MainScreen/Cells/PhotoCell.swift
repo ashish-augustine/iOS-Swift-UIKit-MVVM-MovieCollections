@@ -2,7 +2,7 @@
 //  PhotoCell.swift
 //  Movie
 //
-//  Created by siuzanna on 18/12/21.
+//  Created by Ashish Augustine on 18/12/21.
 //
 
 import UIKit

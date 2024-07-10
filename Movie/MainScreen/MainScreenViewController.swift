@@ -2,7 +2,7 @@
 //  MainScreenViewController.swift
 //  Movie
 //
-//  Created by siuzanna on 17/12/21.
+//  Created by Ashish Augustine on 17/12/21.
 //
 
 import UIKit

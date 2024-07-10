@@ -2,7 +2,7 @@
 //  UICollectionViewCell+Register+extension.swift
 //  Neo-Cafe
 //
-//  Created by siuzanna on 11/11/21.
+//  Created by Ashish Augustine on 11/11/21.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  MainContentView.swift
 //  Movie
 //
-//  Created by Siuzanna Karagulova   on 4/3/24.
+//  Created by Ashish Augustine Karagulova   on 4/3/24.
 //
 
 import UIKit
