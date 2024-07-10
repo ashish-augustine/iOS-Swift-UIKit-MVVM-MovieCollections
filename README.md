@@ -1,6 +1,6 @@
 # Movie Collections         
 
-This app shows a collections of TV streaming and other movies. Movie app written in Swift & UIKit. App built using the MVVM architecture and 100% programmatic UI (No Storyboard). + NSDiffableDataSourceSnapshot, UICollectionViewDiffableDataSource
+This app shows a collections of TV streaming and other movies. Movie app written in Swift & UIKit. App built using the MVVM architecture and programmatic UI . 
 
 ### Screen Shots
 ![Group1X](https://user-images.githubusercontent.com/64474454/146820234-84c70414-719a-4471-9513-8cc813a14bbe.png)
