@@ -1,4 +1,4 @@
-# Movie         
+# Movie Collections         
 
 This app shows a collections of TV streaming and other movies. Movie app written in Swift & UIKit. App built using the MVVM architecture and 100% programmatic UI (No Storyboard). + NSDiffableDataSourceSnapshot, UICollectionViewDiffableDataSource
 
@@ -36,10 +36,6 @@ This app shows a collections of TV streaming and other movies. Movie app written
 - UIKit
 - WebKit 
   
-## Resources
- 
-- Design - [Figma design](https://www.figma.com/community/file/988093088740037911/VOD-Platform-App) created by [Mehri Fekri](https://www.figma.com/community/file/988093088740037911/VOD-Platform-App)
-- API - [Link to Mocky](https://www.mocky.io/v3/3feccf06-6bc1-480d-97af-bbc05d785f86)
 
 ## How To Run The Project
 
